@@ -1,0 +1,40 @@
+{
+    "books": [
+        {
+            "author": "Pabalelo Masilela",
+            "title": "Sarcasm Lit",
+            "year": "1995",
+            "description": "A book about the art of sarcasm"
+        },
+        {
+            "author": "Moeketsi Mabuslea",
+            "title": "Software Development for Dummies",
+            "year": "1993",
+            "description": "A book on how to master software development"
+        },
+        {
+            "author": "Tshiamo Masilela",
+            "title": "For the Love of the Game",
+            "year": "2012",
+            "description": "A book on how to participate in extracurricular activities (extra murals)"
+        },
+        {
+            "author": "Reitumetsi Marema",
+            "title": "Cute Affirmations",
+            "year": "2021",
+            "description": "A book on child affirmations"
+        },
+        {
+            "author": "Azania Mabusela",
+            "title": "Ballet",
+            "year": "2016",
+            "description": "A book on loving ballet"
+        },
+        {
+            "author": "Thato Mabusela",
+            "title": "Baker",
+            "year": "2021",
+            "description": "A book on how to sing mnike"
+        }
+    ]
+}
